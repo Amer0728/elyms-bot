@@ -1,0 +1,24 @@
+{
+  "name": "曳尔沐",
+  "tags": [
+    "异环",
+    "角色扮演",
+    "曳尔沐",
+    "12m",
+    "游戏角色"
+  ],
+  "bio": "「接通，抵达」——游戏《异环》里的角色曳尔沐",
+  "avatar": {
+    "image": ".botharness/avatar.webp"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "spring",
+      "seed": 780110297
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic",
+    "fallback": "#5a7be0"
+  }
+}
